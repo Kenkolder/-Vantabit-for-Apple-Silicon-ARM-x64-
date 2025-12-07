@@ -12,7 +12,6 @@ A premium, glass-morphism styled encryption tool built for macOS and Android.
 *   🔒 **Secure**: AES-256 encryption logic runs locally (Offline).
 *   💎 **Premium UI**: Titanium/Glass aesthetic with fluid animations.
 *   🍎 **Native macOS**: Standalone `.dmg` application.
-*   🤖 **Android Ready**: Mobile support via Capacitor.
 *   🎓 **Educational**: Created by KenKolder / PRAJWAL VP for learning purposes.
 
 ## 🚀 Installation
@@ -22,11 +21,6 @@ A premium, glass-morphism styled encryption tool built for macOS and Android.
 2.  Download `VantaBit.dmg`.
 3.  Drag "VantaBit" to your Applications folder.
 4.  Launch the app!
-
-### Android (Mobile)
-The project is configured for Android via Capacitor.
-*   **Compile**: Open the `android/` folder in Android Studio and build the APK.
-*   **Download**: Pre-built APKs may be available in **[Releases](../../releases)**.
 
 ## 🛠️ Development
 
@@ -54,14 +48,6 @@ npm run dev
 npm run dist
 ```
 *Output: `dist/VantaBit-1.0.0-arm64.dmg`*
-
-**Android:**
-```bash
-npm run build
-npx cap sync
-npx cap open android
-```
-*Then build via Android Studio build menu.*
 
 ## 📄 License & Copyright
 
