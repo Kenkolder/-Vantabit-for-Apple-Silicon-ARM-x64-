@@ -1,0 +1,14 @@
+COPYRIGHT NOTICE
+
+Copyright (c) 2025 KenKolder / PRAJWAL VP. All Rights Reserved.
+
+PROPERTY OF KENKOLDER / PRAJWAL VP.
+
+TERMS OF USE:
+1.  **EDUCATIONAL USE ONLY**: This software and source code are provided strictly for educational and learning purposes.
+2.  **NO COMMERCIAL USE**: You are NOT allowed to sell, resell, bundle, or use this application (or any part of its source code) for any commercial purpose or financial gain.
+3.  **NO RECREATION**: You are NOT allowed to recreate, clone, or copy this application to release it as your own product.
+4.  **OWNERSHIP**: This application is the sole intellectual property of KenKolder / PRAJWAL VP.
+
+BY USING OR ACCESSING THIS SOFTWARE, YOU AGREE TO THESE TERMS.
+ANY VIOLATION OF THESE TERMS IS STRICTLY PROHIBITED.
