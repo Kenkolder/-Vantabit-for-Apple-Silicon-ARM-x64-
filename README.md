@@ -1,9 +1,9 @@
 # VantaBit 🛡️
 
 **Secure, Client-Side Encryption Vault.**
-A premium, glass-morphism styled encryption tool built for macOS and Android.
+A premium, glass-morphism styled encryption tool built for macOS.
 
-> **VantaBit** is a premium, client-side encryption tool designed for secure file protection. Built with React and Electron, it features a glass-morphism interface and military-grade AES-256 encryption. It operates entirely offline, ensuring zero-knowledge security for your data on macOS and Android.
+> **VantaBit** is a premium, client-side encryption tool designed for secure file protection. Built with React and Electron, it features a glass-morphism interface and military-grade AES-256 encryption. It operates entirely offline, ensuring zero-knowledge security for your data on macOS.
 
 ![VantaBit Desktop](https://via.placeholder.com/800x450?text=VantaBit+App+Interface)
 
