@@ -1,0 +1,15 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.kenkolder.vantabit
+productName: VantaBit
+mac:
+  category: public.app-category.utilities
+  target: dmg
+  icon: icon.png
+files:
+  - filter:
+      - dist/**/*
+      - electron-main.js
+      - icon.png
+electronVersion: 39.2.6
